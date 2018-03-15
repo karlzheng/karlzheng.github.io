@@ -2,12 +2,12 @@
 layout: default
 title: emqtt-install-tips
 ---
-### emqtt-install-tips
+## emqtt-install-tips
 
 modified:  etc/emq.conf
 
-#####`mqtt.allow_anonymous = true`
+`mqtt.allow_anonymous = true`
 
 change to:
 
-##### `mqtt.allow_anonymous = false`
+`mqtt.allow_anonymous = false`
