@@ -1,3 +1,7 @@
+---
+layout: default
+title: emqtt-install-tips
+---
 ### emqtt-install-tips
 
 modified:  etc/emq.conf
