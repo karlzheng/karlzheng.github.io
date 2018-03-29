@@ -42,6 +42,7 @@ docker run -d \
     --hostname ${HOST_NAME} \
     -p 8443:443 -p 8880:80 -p 8822:22 \
     --name gitlab \
+    --restart always \
     -v ${GITLAB_DIR}/config:/etc/gitlab \
     -v ${GITLAB_DIR}/logs:/var/log/gitlab \
     -v ${GITLAB_DIR}/data:/var/opt/gitlab \
@@ -77,5 +78,15 @@ user['git_user_email'] = "meiklife@163.com"
 
 ```Shell
 在Admin Area->Settings->Sign-in Restrictions里将Sign-up enabled选项去掉
+```
+
+##### 6. Refence:
+
+```
+[https://gitlab.com/gitlab-org/omnibus-gitlab/tree/master/docker](https://gitlab.com/gitlab-org/omnibus-gitlab/tree/master/docker)
+
+[https://gitlab.com/gitlab-org/omnibus-gitlab/blob/master/doc/docker/README.md](https://gitlab.com/gitlab-org/omnibus-gitlab/blob/master/doc/docker/README.md)
+
+[https://about.gitlab.com/installation/#ubuntu?version=ce](https://about.gitlab.com/installation/#ubuntu?version=ce)
 ```
 
