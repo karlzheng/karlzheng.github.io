@@ -1,4 +1,7 @@
 ---
+<!--layout: default-->
+<!--layout: post-->
+<!--layout: home-->
 layout: default
 title: Thinking/Believe in (KarlZheng's blog)
 ---
