@@ -1,9 +1,6 @@
 ---
-<!--layout: default-->
-<!--layout: post-->
-<!--layout: home-->
 layout: default
-title: Thinking/Believe in (KarlZheng's blog)
+title: Thinking/Doing/BelieveIn
 ---
 <h2>{{ page.title }}</h2>
 <p>New Article</p>
