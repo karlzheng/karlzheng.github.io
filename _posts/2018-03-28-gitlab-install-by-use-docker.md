@@ -90,3 +90,5 @@ user['git_user_email'] = "meiklife@163.com"
 [https://about.gitlab.com/installation/#ubuntu?version=ce](https://about.gitlab.com/installation/#ubuntu?version=ce)
 ```
 
+{% include payment/payment.md %}
+
