@@ -1,4 +1,5 @@
 theme: jekyll-theme-architect
 title: [KarlZheng's website]
 description: [Thinking/Doing/BelieveIn]
+show_downloads: true
 #theme: minima
