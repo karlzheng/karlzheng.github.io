@@ -1,5 +1,6 @@
 ---
 layout: default
+categories: mqtt
 title: emqtt-install-tips
 ---
 ## emqtt-install-tips

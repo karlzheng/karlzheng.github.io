@@ -1,5 +1,6 @@
 ---
 layout: default
+categories: gitlab docker
 title: install-gitlab-by-use-docker
 ---
 ## install gitlab by use docker

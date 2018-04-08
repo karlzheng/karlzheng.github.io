@@ -1,5 +1,6 @@
 ---
 layout: default
+categories: html
 title: use Javascipt to enable document.body.contentEditable
 ---
 ## Javascipt tips:
