@@ -99,11 +99,11 @@ disqus:
         #client_id: d2e1cbbd298958076462
         #client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
 # https://github.com/gitalk/gitalk#install
-#gitalk:
-    #owner: mzlogin
-    #repo: blog-comments
-    #clientID: d2e1cbbd298958076462
-    #clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+gitalk:
+    owner: karlzheng
+    repo: karlzheng/karlzheng.github.io
+    clientID: e3330dcaf13a529981a6
+    clientSecret: 4efc5846baff7d82f9b36d38ae931957603c45a9
 
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
