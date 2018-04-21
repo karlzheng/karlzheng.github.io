@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 categories: html
 title: use Javascipt to enable document.body.contentEditable
 ---

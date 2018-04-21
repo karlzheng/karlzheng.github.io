@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 categories: mqtt
 title: emqtt-install-tips
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 categories: gitlab docker
 title: install-gitlab-by-use-docker
 ---
