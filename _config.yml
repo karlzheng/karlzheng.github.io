@@ -79,7 +79,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: karlzheng/karlzheng.github.io
+repository: karlzheng.github.io
 
 # ---------------- #
 #      Comments    #
@@ -101,9 +101,9 @@ disqus:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: karlzheng
-    repo: karlzheng/karlzheng.github.io
-    clientID: e3330dcaf13a529981a6
-    clientSecret: 4efc5846baff7d82f9b36d38ae931957603c45a9
+    repo: karlzheng.github.io
+    clientID: 37c3a59e1d2833fe4566
+    clientSecret: 7ce1a3eadf2d67b8ab41cb87a4803a504a56ff8a
 
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
