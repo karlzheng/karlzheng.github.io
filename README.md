@@ -1,6 +1,6 @@
 # Karlzheng's Blog
 
-我的个人博客：<http://www.pedoalgorithm.top>，欢迎 Star 和 Fork。
+我的个人博客：<http://www.ioter.top>，欢迎 Star 和 Fork。
 
 ## 概览
 
@@ -16,7 +16,7 @@
 
 ## 效果预览
 
-**[在线预览 &rarr;](http://www.pedoalgorithm.top)**
+**[在线预览 &rarr;](http://www.ioter.top)**
 
 ## Fork 指南
 

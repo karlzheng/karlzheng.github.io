@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://www.pedoalgorithm.top
+url: http://www.ioter.top
 date_format: "ordinal"
 title: "KarlZheng's Homepage/Note"
 subtitle: "Thinking/Doing/Believe In"
@@ -18,8 +18,8 @@ side_bar_repo_limit: 5
 #      Author      #
 # ---------------- #
 author: Karl Zheng
-organization: pedoalgorithm.top
-organization_url: http://www.pedoalgorithm.top
+organization: ioter.top
+organization_url: http://www.ioter.top
 github_username: karlzheng
 location: GuangZhou, China
 email: zhengkarl@gmail.com
