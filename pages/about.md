@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "KarlZheng的个人博客"
+title: "KarlZheng's Homepage/Note"
 description: [Thinking/Doing/BelieveIn]
 keywords: Karl, KarlZheng
 comments: true
