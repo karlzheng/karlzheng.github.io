@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "KarlZheng's Homepage/Note"
+title: "物联网工程师KarlZheng的技术笔记"
 description: [Thinking/Doing/BelieveIn]
-keywords: Karl, KarlZheng
+keywords: Karl, KarlZheng, IOT
 comments: true
 menu: 关于
 permalink: /about/

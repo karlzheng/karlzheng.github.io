@@ -1,12 +1,12 @@
 - name: Software Engineer Keywords
   keywords:
-      - Java
-      - C++
-      - Python
-      - Design Patterns
+      - IOT / 物联网
+      - Linux / Kernel
+      - Network server
+      - Python / AI
 
 - name: Mobile Developer Keywords
   keywords:
-      - Android
-      - IOS
+      - Android BSP
+      - IOS / Swift
 

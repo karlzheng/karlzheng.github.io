@@ -17,6 +17,7 @@
     <link rel="stylesheet" href="{{ site.url }}/assets/vendor/share.js/dist/css/share.min.css">
     <link rel="stylesheet" href="{{ site.url }}/assets/css/globals/responsive.css">
     <link rel="stylesheet" href="{{ site.url }}/assets/css/posts/index.css">
+	<link rel="stylesheet" href="{{ site.url }}/assets/css/pages/index.css">
     <!-- Latest compiled and minified CSS -->
     {% for css in page.css %}
     <link rel="stylesheet" href="{{ site.url }}/assets/css/{{css}}">
@@ -79,7 +80,8 @@
     }
     </script>
 </head>
-<body class="{{ page.class }}" data-mz="{{ page.class }}">
+<!--<body class="{{ page.class }}" data-mz="{{ page.class }}">-->
+<body class="home" data-mz="home">
     <header class="site-header">
         <div class="container">
             <h1><a href="{{ site.url }}/" title="{{ site.title }}"><span class="octicon octicon-mark-github"></span> {{ site.title }}</a></h1>
