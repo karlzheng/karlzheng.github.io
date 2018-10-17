@@ -51,6 +51,8 @@ sequenceDiagram
 </div>
 #### Ref:
 
+[https://www.jianshu.com/p/4bae409248b3](https://www.jianshu.com/p/4bae409248b3)
+
 [https://github.com/Redisrupt/mermaid-diagrams](https://github.com/Redisrupt/mermaid-diagrams)
 
 [https://github.com/jasonbellamy/jekyll-mermaid](https://github.com/jasonbellamy/jekyll-mermaid)
