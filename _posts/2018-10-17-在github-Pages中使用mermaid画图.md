@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: tech
+categories: tech,mermaid
 title: mermaid 4 github pages
 ---
 ## 在github pages中使用mermaid画图
