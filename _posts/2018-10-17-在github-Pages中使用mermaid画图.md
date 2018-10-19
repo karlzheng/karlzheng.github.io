@@ -1,9 +1,9 @@
 ---
 layout: post
-categories: tech,mermaid
-title: mermaid 4 github pages
+categories: tech,Mermaid
+title: 在github pages中使用Mermaid画图
 ---
-## 在github pages中使用mermaid画图
+## 在github pages中使用Mermaid画图
 
 I read:
 
