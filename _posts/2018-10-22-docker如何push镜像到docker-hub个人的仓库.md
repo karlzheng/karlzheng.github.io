@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: tech
+categories: tech docker
 title: docker如何push镜像到docker hub个人的仓库
 ---
 ## docker如何push镜像到docker hub个人的仓库
