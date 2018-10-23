@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: tech
+categories: tech mermaid
 title: write flowchat by mermaid
 ---
 ## write flowchat by mermaid
