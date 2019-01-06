@@ -6,7 +6,7 @@ typora-root-url: ../
 ---
 ## Apple Think Different
 
-[appleThinkDifferent.mp3](mp3/appleThinkDifferent.mp3)
+[appleThinkDifferent.mp3](/mp3/appleThinkDifferent.mp3)
 
 ```xml
 Here's to the crazy ones.
