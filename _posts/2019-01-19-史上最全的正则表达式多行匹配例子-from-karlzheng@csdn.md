@@ -5,6 +5,7 @@ title: 史上最全的正则表达式多行匹配例子 from karlzheng@csdn
 typora-root-url: ../
 ---
 ## 史上最全的正则表达式多行匹配例子 from karlzheng@csdn
+
 [https://blog.csdn.net/ZhengKarl/article/details/8121266](https://blog.csdn.net/ZhengKarl/article/details/8121266)
 
 经常碰到想查找多行匹配的时候，比如：有一份log如下：
