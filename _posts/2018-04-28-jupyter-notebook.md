@@ -11,3 +11,7 @@ jupyter notebook --ip 0.0.0.0
 ~/.jupyter/jupyter_notebook_config.json 
 ```
 
+- #### jupyter notebook退出:
+
+  要按 ***两次*** CTRL + C
+
