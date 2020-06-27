@@ -22,7 +22,7 @@ The symbol _start is the entry point of your program. That is, the address of th
 If a program does not want to use the C runtime environment, it needs to supply its own code for _start. For instance, the reference implementation of the Go programming language does so because they need a non-standard threading model which requires some magic with the stack. It's also useful to supply your own _start when you want to write really tiny programs or programs that do unconventional things.
 ```
 
-
+![image-20200627183439898](/images/cprogram/image-20200627183439898.png)
 
 - #### Ref:
 
