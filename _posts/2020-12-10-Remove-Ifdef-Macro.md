@@ -23,4 +23,6 @@ find . -type d -name '.git' -prune -o -type d -name 'out' -prune -o -regex '.*\.
 #### Ref:
 
 - [http://coan2.sourceforge.net](http://coan2.sourceforge.net)
+- [http://stripcc.sourceforge.net](http://stripcc.sourceforge.net)
+- [https://github.com/uncrustify/uncrustify](https://github.com/uncrustify/uncrustify)
 
