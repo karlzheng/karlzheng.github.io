@@ -25,4 +25,6 @@ find . -type d -name '.git' -prune -o -type d -name 'out' -prune -o -regex '.*\.
 - [http://coan2.sourceforge.net](http://coan2.sourceforge.net)
 - [http://stripcc.sourceforge.net](http://stripcc.sourceforge.net)
 - [https://github.com/uncrustify/uncrustify](https://github.com/uncrustify/uncrustify)
+- [https://git.enlightenment.org/tools/formatting.git](https://git.enlightenment.org/tools/formatting.git)
+- [https://github.com/shr-project/enlightenment/tree/master/FORMATTING/ecrustify](https://github.com/shr-project/enlightenment/tree/master/FORMATTING/ecrustify)
 
