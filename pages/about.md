@@ -21,12 +21,6 @@ permalink: /about/
 * [Bashrc](https://github.com/karlzheng/bashrc) ： 👋十余年打造，超过两千行的Bashrc，极大提高在Linux工作的效率🔥👋
 * [Vimrc](https://github.com/karlzheng/vimrc) ：   👋打造十余年，超过两千行的Vimrc， 极大提高编写程序代码的效率🔥👋
 
-## 联系
-
-{% for website in site.data.social %}
-* {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
-{% endfor %}
-
 ## Skill Keywords
 
 {% for category in site.data.skills %}
@@ -37,3 +31,10 @@ permalink: /about/
 {% endfor %}
 </div>
 {% endfor %}
+
+## 联系
+
+{% for website in site.data.social %}
+* {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
+{% endfor %}
+
