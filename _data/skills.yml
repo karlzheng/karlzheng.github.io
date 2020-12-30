@@ -1,12 +1,11 @@
 - name: Software Engineer Keywords
   keywords:
-      - IOT / 物联网
-      - Linux / Kernel
-      - Network server
-      - Python / AI
+      - TWS Hyber ANC / TWS耳机
+      - Linux Kernel / RTOS
+      - 复杂驱动 / 网络 / IOT
 
 - name: Mobile Developer Keywords
   keywords:
-      - Android BSP
-      - IOS / Swift
+      - Android 底层驱动
+      - Android HAL层
 
