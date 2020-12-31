@@ -4,7 +4,7 @@ categories: tech
 title: [转]clang format 强制clang格式尊重doxygen块注释
 typora-root-url: ../
 ---
-## [转]clang format 强制clang格式尊重doxygen块注释
+## 转发文章强制clang格式尊重doxygen块注释
 
 在C / C ++代码中使用长块C风格的Doxygen注释
 
