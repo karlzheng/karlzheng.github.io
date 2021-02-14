@@ -4,9 +4,7 @@ categories: tech
 title: use dot to draw graph in Typora
 typora-root-url: ../
 ---
-## use dot to draw graph in Typora
-
-
+## use dot to draw graph 
 
 ```c
 ![Alt text](https://g.gravizo.com/svg?
@@ -27,7 +25,6 @@ typora-root-url: ../
   }
 )
 ```
-
 
 <img src="/images/dotimage/dot-examples.png" alt="image-20210214183810188" style="zoom:50%;" />
 
