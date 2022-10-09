@@ -20,4 +20,13 @@ cd raspberry-pi-pcie-devices/extras/cross-compile
 docker-compose up -d
 docker attach cross-compile
 ```
+- [https://github.com/Pro/raspi-toolchain](https://github.com/Pro/raspi-toolchain)
+
+```
+By default, newer GCC versions do not create correct binaries for ARMv6. Even though you pass the correct -mcpu= flag to gcc, it will create startup code for the newer ARMv7 architecture. Running them on your RasPI Zero will cause an "Illegal Instruction" exception.
+```
+
+##### Ref:
+- [https://github.com/tttapa/RPi-Cross-Cpp-Development](https://github.com/tttapa/RPi-Cross-Cpp-Development)
+- [https://github.com/Pro/raspi-toolchain](https://github.com/Pro/raspi-toolchain)
 
