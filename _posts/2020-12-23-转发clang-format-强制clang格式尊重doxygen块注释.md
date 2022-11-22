@@ -1,11 +1,10 @@
 ---
 layout: post
 categories: tech
-title: [转]clang format 强制clang格式尊重doxygen块注释
+title: clang format 强制clang格式尊重doxygen块注释
 typora-root-url: ../
 ---
 ## 转发文章强制clang格式尊重doxygen块注释
-
 在C / C ++代码中使用长块C风格的Doxygen注释
 
 ```
@@ -28,8 +27,9 @@ typora-root-url: ../
 
 
 
-尝试`CommentPragmas`正则表达式[`\/\*+\/\/\*+`](https://regexr.com/3ijaf)。
+尝试`CommentPragmas`正则表达式[`\/\*+\/\/\*+`](https://regexr.com/3ijaf)
 尝试过`CommentPragmas`正则表达式[`/\*(.+\n.+)+\*/`](https://stackoverflow.com/a/36361434/3638827)
+
 我尝试将`ReflowComments`设置为`false`,
 将`SpacesBeforeTrailingComments`设置为2，
 这些都不起作用。
