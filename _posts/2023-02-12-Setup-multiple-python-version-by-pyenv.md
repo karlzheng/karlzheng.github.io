@@ -44,7 +44,7 @@ pyenv install --list
 
 ```shell
 pyenv install 3.6.9 -v
-pyenv install 2.7.17 -v
+pyenv install 2.7.18 -v
 ```
 
 - ##### change python version
